@@ -22,5 +22,5 @@ const arrayTeam = masterTeamNames.filter(i => addTeamNames.includes(i))
 const arrayUnit = masterUnitNames.filter(i => addUnitNames.includes(i))
                                           
 //［」で出力されれば、重複なし
-console.log(arraycts)
-console. log(arrayGenesys)
+console.log(arrayTeam)
+console. log(arrayUnit)
